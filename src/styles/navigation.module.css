@@ -1,0 +1,35 @@
+.navigation {
+  width: 87rem;
+  overflow: hidden;
+  background-color: #fffbfb48;
+  font-family: 'Overpass', sans-serif;
+}
+
+.navigation_items {
+  padding: 0.5rem;
+  float: right;
+}
+
+.page_links {
+  list-style-type: none;
+  color: #ffffff;
+}
+
+.links {
+  float: left;
+}
+
+.links a {
+  display: block;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.links a:hover {
+  background-color: #fa966f9a;
+}
+
+.button {
+  background-color: #fa966f9a;
+}
