@@ -1,8 +1,10 @@
 # ✨ Solana React Scaffold
 
-Solana React Scaffold is a simple boilerplate to easily get started with connecting your frontend to the Solana blockchain.
+Solana React Scaffold is a simple boilerplate to easily get started with a frontend client UI that connects to the Solana blockchain.
+<br></br>
 
-![Solana React Scaffold](https://github.com/comeworkwith-me/stranger-things/blob/main/public/Stranger%20Things.png?raw=true)
+![Solana React Scaffold](https://github.com/comeworkwith-me/solana-react-scaffold/blob/main/public/solana%20react%20scaffold.png?raw=true)
+<br></br>
 
 # 🛠️ HOW IT'S MADE
 
@@ -14,27 +16,32 @@ I built this project leveraging next.js. I added the Solana Wallet Adapter and w
 - Simple Transaction Component
 - Wallet Integeration
 - Navigation Pages
+- Simple Styling
 
+<br></br>
 
-# Getting Started
+# 🤔 GETTING STARTED
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 After forking this repo, install the dependencies by using this command in the terminal:
 
-`npm install
+```
+npm install
 # or
-yarn install`
-<br></br>
+yarn install
+```
 
-### Run
+### 🏃🏾‍♀️ RUN LOCALLY
 
 Run the development server by using this command in the terminal:
 
-`npm run dev
+```
+npm run dev
 # or
-yarn dev`
-<br></br>
+yarn dev
+```
 
-Open http://localhost:3000 with your browser to see the result. You can start editing the page by modifying pages/index.js. The page auto-updates as you edit the file.
+
+Open [local host](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
