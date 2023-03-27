@@ -14,7 +14,7 @@ Tech Stack: CSS, React, Next, Solana Wallet Adapter, Web3.js
 I built this project leveraging next.js. I added the Solana Wallet Adapter and web3.js to create the following scaffold features:
 
 - Simple Transaction Component
-- Wallet Integeration
+- Wallet Integration
 - Navigation Pages
 - Simple Styling
 
